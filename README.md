@@ -20,4 +20,4 @@ use [DownGit](https://downgit.github.io/) to download singular dumps from this a
 These save files aren't supposed to work online and they also never will!
 
 ## Contact
-Discord: Poyo#0777
+Discord: Poyo#0828

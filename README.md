@@ -9,7 +9,7 @@ Currently I'll try to do it on the weekend due to school. <3
 use [DownGit](https://downgit.github.io/) to download singular dumps from this archive
 
 ## DISCLAIMER
-These save files were tested on yuzu emulator + aren't supposed to work online!
+These save files aren't supposed to work online!
 
 ## Supporting
 
